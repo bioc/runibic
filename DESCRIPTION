@@ -19,3 +19,4 @@ NeedsCompilation: yes
 URL: http://github.com/athril/runibic
 BugReports: http://github.com/athril/runibic/issues
 RoxygenNote: 6.0.1
+Config/Bioconductor/UnsupportedPlatforms: macosx
